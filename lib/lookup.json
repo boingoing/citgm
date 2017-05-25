@@ -1,13 +1,13 @@
 {
   "leveldown": {
     "prefix": "v",
-    "flaky": ["aix", "s390"],
     "tags": "native",
     "maintainers": ["jasongin", "boingoing"],
     "repo": "https://github.com/jasongin/leveldown",
     "branch": "napi"
   },
   "nanomsg": {
+    "skip": true,
     "tags": "native",
     "maintainers": "sampsongao",
     "repo": "https://github.com/sampsongao/node-nanomsg",
@@ -15,7 +15,6 @@
   },
   "node-sass": {
     "prefix": "v",
-    "flaky": ["ppc", "s390", "win32"],
     "tags": "native",
     "maintainers": "boingoing",
     "repo": "https://github.com/boingoing/node-sass",
