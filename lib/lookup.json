@@ -17,7 +17,7 @@
     "prefix": "v",
     "tags": "native",
     "maintainers": "boingoing",
-    "repo": "https://github.com/boingoing/node-sass",
+    "repo": "https://github.com/sampsongao/node-sass",
     "branch": "napi"
   },
   "canvas": {
