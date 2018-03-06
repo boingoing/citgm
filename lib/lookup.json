@@ -2,7 +2,7 @@
   "leveldown": {
     "prefix": "v",
     "tags": "native",
-    "maintainers": ["jasongin", "boingoing"],
+    "maintainers": "boingoing",
     "repo": "git://github.com/sampsongao/leveldown",
     "branch": "napi"
   },
@@ -23,8 +23,8 @@
   "canvas": {
     "prefix": "v",
     "tags": "native",
-    "maintainers": "jasongin",
-    "repo": "https://github.com/jasongin/node-canvas",
+    "maintainers": "digitalinfinity",
+    "repo": "https://github.com/digitalinfinity/node-canvas",
     "branch": "napi"
   }
 }
